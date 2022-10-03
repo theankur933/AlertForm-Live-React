@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/AlertForm/static/css/main.5d535cda.css",
+    "main.js": "/AlertForm/static/js/main.453d1ae3.js",
+    "static/js/787.aeb39de0.chunk.js": "/AlertForm/static/js/787.aeb39de0.chunk.js",
+    "index.html": "/AlertForm/index.html",
+    "main.5d535cda.css.map": "/AlertForm/static/css/main.5d535cda.css.map",
+    "main.453d1ae3.js.map": "/AlertForm/static/js/main.453d1ae3.js.map",
+    "787.aeb39de0.chunk.js.map": "/AlertForm/static/js/787.aeb39de0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5d535cda.css",
+    "static/js/main.453d1ae3.js"
+  ]
+}
